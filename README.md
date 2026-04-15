@@ -1,4 +1,4 @@
-# LeakDetect — Giveth Quadratic Funding Campaign Tracker
+# LeakDetect: Giveth Quadratic Funding Campaign Tracker
 
 ## Securing Ethereum Against Hidden Information Leakage
 
