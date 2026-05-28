@@ -62,7 +62,7 @@ The framework enables developers and researchers to:
 
 This introduces a new security paradigm:
 
-**Security under observation — not just correctness under execution.**
+**Security under observation, not just correctness under execution.**
 
 
 # Why This Matters Now
