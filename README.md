@@ -6,7 +6,7 @@ This repository tracks all activities, progress, and deliverables related to the
 
 LeakDetect is an open-source security framework designed to **detect and quantify hidden information leakage in Ethereum wallets, AI agents, and decentralized applications**.
 
-While most security tools focus on visible threats—smart contract exploits, phishing, and wallet hacks—LeakDetect addresses a **critical blind spot in blockchain security**: systems that unintentionally leak sensitive information through observable behavior.
+While most security tools focus on visible threats, smart contract exploits, phishing, and wallet hacks—LeakDetect addresses a **critical blind spot in blockchain security**: systems that unintentionally leak sensitive information through observable behavior.
 
 This repository provides transparency around the campaign and documents the development of **leakage-aware security tooling for the Ethereum ecosystem**.
 
