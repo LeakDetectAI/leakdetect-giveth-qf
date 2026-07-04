@@ -11,7 +11,7 @@ While most security tools focus on visible threats, smart contract exploits, phi
 This repository provides transparency around the campaign and documents the development of **leakage-aware security tooling for the Ethereum ecosystem**.
 
 
-# The Problem No One Is Aware Of
+# The Problem Noone Is Aware Of
 
 Ethereum security today focuses primarily on **visible vulnerabilities**, such as:
 
