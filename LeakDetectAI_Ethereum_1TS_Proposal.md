@@ -1,6 +1,6 @@
-# LeakDetect AI
+## LeakDetect AI
 
-## Exploring Observability-Aware Security for Ethereum, AI Agents, and Multi-Chain Systems
+### Exploring Observability-Aware Security for Ethereum, AI Agents, and Multi-Chain Systems
 
 ### Proposal for Ethereum’s Trillion Dollar Security (1TS) Initiative
 
