@@ -1,4 +1,4 @@
-# DeFi Security Summit 2026 — Submission
+# DeFi Security Summit 2026 and Devcon 2026 Submission
 
 ## Submission Details
 
