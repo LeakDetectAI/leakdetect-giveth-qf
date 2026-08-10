@@ -309,14 +309,4 @@ A strong final paragraph for the application would be:
 
 > **Leak Detect AI brings together security research that is often fragmented across Ethereum's application, wallet, agent and networking layers.** The hub will give Devcon attendees an opportunity to move beyond purely smart-contract-centric security and examine how privacy leakage, insecure communication, P2P attacks and cryptographic assumptions interact across the complete Ethereum stack. By combining real-world datasets, hands-on threat modelling, network measurement with Luminar, libp2p engineering and post-quantum research, the hub will create a practical environment where researchers and builders can identify vulnerabilities, test defensive approaches and develop ideas that can continue beyond Devcon.
 
-## Suggested title
 
-I would use:
-
-**Leak Detect AI: Securing Ethereum from Wallets to P2P Networks**
-
-with the subtitle:
-
-**A 4-Day Community Hub on Privacy, Secure Communication, Network Resilience & Post-Quantum Ethereum**
-
-This gives Devcon leadership an immediately understandable story while preserving the more ambitious technical work underneath.
